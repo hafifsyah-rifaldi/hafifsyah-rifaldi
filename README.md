@@ -1,4 +1,5 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50" />
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30"/>
+My name is Fal
 
 <!--
 **hafifsyah-rifaldi/hafifsyah-rifaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
