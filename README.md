@@ -1,11 +1,19 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30"/>
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30"/>
 My name is Fal
+
+📫 How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/hafifsyah-rifaldi)
+
+<details close>
+<summary>:zap: GitHub Statistics</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=hafifsyah-rifaldi&show_icons=true&theme=nord" width="400px">
+</details>
 
 <!--
 **hafifsyah-rifaldi/hafifsyah-rifaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 👋
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
