@@ -4,6 +4,7 @@ My name is Fal
 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/hafifsyah-rifaldi)
+[![Instagram](https://img.shields.io/badge/--linkedin?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/hafifsyahr)
 
 <details close>
 <summary>:zap: GitHub Statistics</summary>
