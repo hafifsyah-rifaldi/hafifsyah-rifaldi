@@ -6,7 +6,7 @@ My name is Fal
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/hafifsyah-rifaldi)
 [![Instagram](https://img.shields.io/badge/--linkedin?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/hafifsyahr)
 
-<details close>
+<details>
 <summary>:zap: GitHub Statistics</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=hafifsyah-rifaldi&show_icons=true&theme=nord" width="400px">
 </details>
